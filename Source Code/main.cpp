@@ -15,7 +15,7 @@ using namespace std;
 /* ------------------------------------ Global Constant Variables ------------------------------------ */
 const string DIVIDER = "-----------------------------------------------------------\n";
 const string STUDENT_INFORMATION[4] = {
-    "Student ID", ": 6278905", "Stduent Name", ": Yap Yuan Xin"};
+    "Student ID", ": 123456", "Stduent Name", ": Jane Doe"};
 
 const string OPTIONS[] = {
     "1)", "Read in and process a configuration file",
